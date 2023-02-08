@@ -10,6 +10,7 @@ public class HaUI {
 
         int x = 8;
         int y = 12;
+        int z = 18;
 
         Extend test = new Extend();
         test.getName();
